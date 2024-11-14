@@ -98,3 +98,4 @@ License
 This project is open source and available under the MIT License.
 Contact
 For questions or suggestions, feel free to reach out to me at [kobbygilbert233@gmail.com].
+Project Page: [GitHub Repository ] (https://github.com/Kobby24/task_manager-)
